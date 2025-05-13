@@ -10,11 +10,7 @@ body{
 
 .navbar {
     display: flex;
-    position: absolute;
-    top: 80px;
-    right: 50;
-    width: 200px;
-    height: 100px;
+
    
     justify-content: space-around;
     background-color: rgba(111, 162, 199, 0.266);
